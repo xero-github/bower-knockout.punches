@@ -7,5 +7,9 @@
   ],
   "dependencies": {
     "knockout.js": ">=3.0"
-  }
+  },
+  "ignore": [
+    ".gitignore"
+  ],
+  "license": "MIT"
 }
