@@ -6,7 +6,7 @@
     "knockout.punches.min.js"
   ],
   "dependencies": {
-    "knockout.js": ">=3.0"
+    "knockout.js": "3.0.0"
   },
   "ignore": [
     ".gitignore"
